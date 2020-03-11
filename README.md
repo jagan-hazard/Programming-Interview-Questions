@@ -3,7 +3,7 @@ Some of the commonly asked interview programming questions... soon their solutio
 
 
 ===========================================================================================================================
-1. Array-based Programming Interview Questions
+[Array-based Programming Interview Questions]
 ===============================================
 1. How to find the missing number in given integer array of 1 to 100?
 
@@ -42,7 +42,7 @@ Some of the commonly asked interview programming questions... soon their solutio
 
 
 
-2. String-based Coding Interview Questions
+[String-based Coding Interview Questions]
 ============================================
 
 
@@ -85,7 +85,7 @@ Some of the commonly asked interview programming questions... soon their solutio
 19. Given string str, How do you find the longest palindromic substring in str?
 
 
-3. Other logical questions
+[Other logical questions]
 ===========================
 1. Write a program to check whether a number is a palindrome or not?
 
