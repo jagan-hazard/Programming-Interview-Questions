@@ -2,7 +2,6 @@
 Some of the commonly asked interview programming questions... soon their solution will be added 
 
 
-===========================================================================================
 [Array-based Programming Interview Questions]
 ===============================================
 1. How to find the missing number in given integer array of 1 to 100?
