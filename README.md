@@ -84,6 +84,7 @@ Some of the commonly asked interview programming questions... soon their solutio
 
 19. Given string str, How do you find the longest palindromic substring in str?
 
+
 3. Other logical questions
 ===========================
 1. Write a program to check whether a number is a palindrome or not?
