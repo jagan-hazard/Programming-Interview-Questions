@@ -16,13 +16,13 @@ Some of the commonly asked interview programming questions... soon their solutio
 
 6. How to find duplicate numbers in an array if it contains multiple duplicates?
 
-7. How to remove duplicates from a given array in Java?
+7. How to remove duplicates from a given array?
 
 8. How to sort an integer array in place using QuickSort algorithm?
 
 9. How to remove duplicates from an array in place?
 
-10. How to reverse an array in place in Java?
+10. How to reverse an array in place?
 
 11. How to find multiple missing numbers in given integer array with duplicates?
 
