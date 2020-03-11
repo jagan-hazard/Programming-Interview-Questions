@@ -199,7 +199,7 @@ Some of the commonly asked interview programming questions... soon their solutio
 
 26. How to add an element at the middle of the linked list?	
 
-27. How do you sort a linked list in Java?	
+27. How do you sort a linked list?	
 
 28. How do you implement an insertion sort algorithm?
 
